@@ -1,0 +1,20 @@
+# Dados reais de atendimentos: nunca publicar
+Atendimentos/
+Logs/
+Relatorios/
+Atendimento.json
+Auditoria.jsonl
+Historico.csv
+*_Saida.txt
+Diagnostico_*.txt
+Diagnostico_*.html
+Registro_*.clixml
+# Arquivos temporarios e locais
+.tmp/
+test-session/
+*.log
+*.zip
+.env
+.env.*
+Thumbs.db
+.DS_Store
